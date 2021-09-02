@@ -1,5 +1,4 @@
 <h1>Introduction</h1><br>
-<hr>
 This is  movie recommender system built using Collaborative filtering which combines user-user similarity, item-item similarity, global averages, and matrix factorization.
 <br>
 <h1>How to run ?</h1><br>
