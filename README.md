@@ -1,7 +1,5 @@
-# Movie-Recommendation
-
 <h1>Introduction</h1><br>
-<hr><br>
+<hr>
 This is  movie recommender system built using Collaborative filtering which combines user-user similarity, item-item similarity, global averages, and matrix factorization.
 <br>
 
@@ -11,4 +9,4 @@ To run this file, you must have Juypter installed on your system.To install Jupy
 Then navigate to the directory containing the target files in command prompt and run the code -<br>
 <i>jupyter-notebook</i><br>
 This will help you run the kernel in your local machine<br>
-<hr><br>
+<hr>
